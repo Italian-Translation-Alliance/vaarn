@@ -1,63 +1,63 @@
-# Ancestries
-_Ancestries describe what kind of being you are. Choose one of the nine and use the Spark Tables for inspiration. Feel free to ignore the results if they do not match your vision for the character; they are intended as creative fuel only._
+# Ascendenze
+Le _ascendenze_ descrivono il tipo di essere che siete. Scegliete una delle nove e utilizzate le Tavole della Scintilla per ispirarvi. Sentitevi liberi di ignorare i risultati se non corrispondono alla vostra visione del personaggio; sono intesi solo come carburante creativo.{\i}
 
-## True-Kin
-_The true-kin sealed themselves inside hidden arcologies when the Great Collapse came, and in this fashion they preserved their bodies from the degradations that afflicted those left living upon the surface. The true-kin have fanatically kept their bloodlines free of mutation and parasitic nanomachinery, and closely guard their mastery of the ancients’ technology. The societies they built inside their secluded arcologies were hierarchical and caste-based; traditions the true-kin have carried with them into their re-colonisation of the surface world and establishment of the New Hegemony._
+## Verastirpe
+_I Verastirpe si sono sigillati all'interno di arcologie nascoste quando è arrivato il Grande Crollo, e in questo modo hanno preservato i loro corpi dalle degradazioni che affliggevano coloro che erano rimasti in superficie. I Veri Pellerossa hanno mantenuto fanaticamente le loro linee di sangue libere da mutazioni e nanomacchine parassitarie e custodiscono con cura la loro padronanza della tecnologia degli antichi. Le società che hanno costruito all'interno delle loro arcologie appartate erano gerarchiche e basate sulle caste; tradizioni che i veri Pellerossa hanno portato con sé nella loro ricolonizzazione del mondo di superficie e nella creazione della Nuova Egemonia._
 
 <table>
-<thead><th>d20</th><th>Name</th><th>Caste</th><th>Demeanour</th><th>Distinct Feature</th></thead>
-<tr><td>1</td><td>Benjoe</td><td rowspan="4">Servitor (labourer caste)</td><td>Amused</td><td>Ritual Scars</td></tr>
-<tr><td>2</td><td>Leif</td><td>Bitter</td><td>Face Tattoos</td></tr>
-<tr><td>3</td><td>Xurm</td><td>Morbid</td><td>Slave Brand</td></tr>
-<tr><td>4</td><td>Kazor</td><td>Bony</td><td>Heavy Jewellery</td></tr>
-<tr><td>5</td><td>Essana</td><td rowspan="5">Freeholder (merchant caste)</td><td>Cheerful</td><td>Synthetic Limb</td></tr>
-<tr><td>6</td><td>Calista</td><td>Cruel</td><td>Strange Voice</td></tr>
-<tr><td>7</td><td>Jinny</td><td>Flamboyant</td><td>Clone Brand</td></tr>
-<tr><td>8</td><td>Vela</td><td>Glowering</td><td>Limp</td></tr>
-<tr><td>9</td><td>Leksei</td><td>Impish</td><td>Strange Pet</td></tr>
-<tr><td>10</td><td>Ippash</td><td rowspan="5">Optimate (administrator caste)</td><td>Lanky</td><td>Lacquered Teeth</td></tr>
-<tr><td>11</td><td>Lagad</td><td>Patrician</td><td>Burn Scars</td></tr>
-<tr><td>12</td><td>Myli</td><td>Reckless</td><td>Octarine Eyes</td></tr>
-<tr><td>13</td><td>Nirid</td><td>Rough</td><td>Dyed Skin</td></tr>
-<tr><td>14</td><td>Ardel</td><td>Rude</td><td>Golden Teeth</td></tr>
-<tr><td>15</td><td>Senefer</td><td rowspan="3">Armiger (warrior caste)</td><td>Sly</td><td>Silver Tongue</td></tr>
-<tr><td>16</td><td>Pharmon</td><td>Sour</td><td>Missing Limb</td></tr>
-<tr><td>17</td><td>Mesu</td><td>Stoic</td><td>Missing Eye</td></tr>
-<tr><td>18</td><td>Lenta</td><td rowspan="3">Exultant (sacred aristocracy)</td><td>Foolish</td><td>Religious Apparel</td></tr>
-<tr><td>19</td><td>Goza</td><td>Warm</td><td>Synthetic Eyes</td></tr>
-<tr><td>20</td><td>Babl</td><td>Wolfish</td><td>Visibly Diseased</td></tr>
+<thead><th>d20</th><th>Nome</th><th>Casta</th><th>Contegno</th><th>Caratteristica distintiva</th></thead>
+<tr><td>1</td><td>Benjoe</td><td rowspan="4">Servitore (casta di lavoratori)</td><td>Divertito</td><td>Cicatrici rituali</td></tr>
+<tr><td>2</td><td>Leif</td><td>Rancoroso</td><td>Tatuaggi sul viso</td></tr>
+<tr><td>3</td><td>Xurm</td><td>Morbido</td><td>Marchio Schiavista</td></tr>
+<tr><td>4</td><td>Kazor</td><td>Emaciato</td><td>Gioielli pesanti</td></tr>
+<tr><td>5</td><td>Essana</td><td rowspan="5">Imprenditore (casta di mercanti)</td><td>Accogliente</td><td>Arto sintetico</td></tr>
+<tr><td>6</td><td>Calista</td><td>Crudele</td><td>Voce Strana</td></tr>
+<tr><td>7</td><td>Jinny</td><td>Sfarzoso</td><td>Clone Marchiato</td></tr>
+<tr><td>8</td><td>Vela</td><td>Furioso</td><td>Zoppica</td></tr>
+<tr><td>9</td><td>Leksei</td><td>Malizioso</td><td>Strano animale domestico</td></tr>
+<tr><td>10</td><td>Ippash</td><td rowspan="5">Ottimate (casta di amministratori)</td><td>Allampanato</td><td>Denti Laccati</td></tr>
+<tr><td>11</td><td>Lagad</td><td>Patrizio</td><td>Cicatrici da ustione</td></tr>
+<tr><td>12</td><td>Myli</td><td>Imprudente</td><td>Occhi di ottanio</td></tr>
+<tr><td>13</td><td>Nirid</td><td>Grezzo</td><td>Pelle tinta</td></tr>
+<tr><td>14</td><td>Ardel</td><td>Rude</td><td>Denti d'oro</td></tr>
+<tr><td>15</td><td>Senefer</td><td rowspan="3">Armigero (casta di guerrieri)</td><td>Furbo</td><td>Lingua d'argento</td></tr>
+<tr><td>16</td><td>Pharmon</td><td>Acido</td><td>Arto mancante</td></tr>
+<tr><td>17</td><td>Mesu</td><td>Stoico</td><td>Occhio mancante</td></tr>
+<tr><td>18</td><td>Lenta</td><td rowspan="3">Esultante (aristocrazia sacra)</td><td>Stupido</td><td>Abbigliamento religioso</td></tr>
+<tr><td>19</td><td>Goza</td><td>Cordiale</td><td>Occhi sintetici</td></tr>
+<tr><td>20</td><td>Babl</td><td>Feroce</td><td>Visibilmente malato</td></tr>
 </table>
 
-|d20|BODY|FACE|HAIR|ATTIRE|
+|D20 |CORPO|VISO| CAPELLI| VESTI|
 |-|----|----|----|------|
-|1|Tall|Sallow|Black|Rags|
-|2|Short|Lively|Brown|Animal Skins|
-|3|Frail|Cruel|Red|Rough Tunic|
-|4|Muscular|Wrinkled|Blonde|Nomad Attire|
-|5|Fat|Scarred|Grey|Worker's Attire|
-|6|Thin|Frowning|White|Herdsman's Attire|
-|7|Skeletal|Pale|Shaved|Slave Clothing|
-|8|Hunched|Greasy|Topknot|Exultant's Livery|
-|9|Lopsided|Wide|Green|Shabby Attire|
-|10|Lithe|Narrow|Orange|Colourful Attire|
-|11|Gnarled|Sharp|Glowing|Priest's Robes|
-|12|Squat|Hungry|Fungus|Clerk's Uniform|
-|13|Bloated|Haunted|Purple|Hegemony Garb|
-|14|Gangly|Jolly|Yellow|Soldier's Clothing|
-|15|Child-like|Round|Wispy|Flamboyant Attire|
-|16|Tanned|Mournful|Burnt|Musician's Attire|
-|17|Gigantic|Child-like|Braided|Veiled Attire|
-|18|Wiry|Peaceful|Greasy|Armiger's Clothing|
-|19|Cyborg|Sleepy|Matted|Exultant's Clothing|
-|20|Injured|Branded|Long|Expensive Clothing|
+|1|Alto|Sottile|Nero|Stracci|
+|2|Corto|Vitale|Marrone|Pelli di animali|
+|3|Fragile|Crudo|Rosso|Casacca ruvida|
+|4|Muscoloso|Rugoso|Biondo|Abbigliamento da nomade|
+|5|Grasso|Scarso|Grigio|Abbigliamento da lavoratore|
+|6|Sottile|Accigliato|Bianco|Abbigliamento da mercante|
+|7|Scheletrico|Pallido|Rosato|Abbigliamento da schiavo|
+|8|Gobbo|Grigi| nodo in testa|Livrea da Esultante|
+|9|Sbilenco|Verde|Abbigliamento trasandato|
+|10|Leggero|Stretto|Arancione|Abbigliamento colorato|
+|11|Nodoso|Affilato|Splendenti|Vesti da sacerdote|
+|12|Tozzo|Affamato|Fungo|Uniforme da commesso|
+|13|Gonfio|Preoccupato|Purpurei|Stile dell'Egemonia|
+|14|Gangly|Jolly|Giallo|Abbigliamento da soldato|
+|15|Bambinesco|Rotondo|Spiritoso|Sfarzose|
+|16|Abbronzato|Luttuoso|Bruciato|Abbigliamento da musicista|
+|17|Gigantesco|Bambinesco|Treccia|Abbigliamento con trecce|
+|18|Asciutto|Pacifico|Grasso|Abbigliamento da armigero|
+|19|Cyborg|Sonnolento|Infeltrito|Abbigliamento da Esultante|
+|20|Ferito|Marchiato|Lungo|Costose|
 
-### Special
-__PURE OF BLOOD__ - Do not roll mutations during character creation. You gain Advantage on reaction rolls when you encounter other true-kin. You lose this bonus if you ever become visibly mutated.  
+### Speciale
+__SANGUE PURO__ - Non tirare mutazioni durante la creazione del personaggio. Ottenete un vantaggio sui tiri di reazione quando incontrate altri verastirpe. Perdi questo bonus se diventi visibilmente mutato.  
 
-__INHERITOR__ - Whenever you encounter pre-Collapse security systems, or guard synths, there is a 50% chance that they will recognise you as their master.
+__INHERITOR__ - Ogni volta che incontrate sistemi di sicurezza pre-collasso o sintetici di guardia, c'è il 50% di possibilità che vi riconoscano come il loro padrone.
 
-## Cacogen
-_Cacogen are the mutated descendants of those unfortunates who were left to weather the Great Collapse upon the ruined surface of Urth. Necessity is the mother of invention and so, warped by radiation and preyed upon by biotech monstrosities and crazed thinking machines, the cacogen evolved into a million different forms. Each individual is genetically unique, gifted in surprising and disturbing ways. Cacogen outnumber true-kin by ten to one, and believe they are the true inheritors of Urth._
+## Cacogeni
+_I cacogeni sono i discendenti mutati di quegli sfortunati che sono stati lasciati ad affrontare il Grande Crollo sulla superficie in rovina di Urth. La necessità è la madre dell'invenzione e così, deformati dalle radiazioni e predati da mostruosità biotecnologiche e macchine pensanti impazzite, i cacogeni si sono evoluti in un milione di forme diverse. Ciascun individuo è geneticamente unico, dotato di modi sorprendenti e inquietanti. I cacogeni sono più numerosi dei veri parenti di dieci a uno e credono di essere i veri eredi di Urth._
 
 |d20|__NAME__|__DEMEANOUR__|__MISFORTUNE__|__YOUR ECCENTRICITY__|
 |-|--------|-------------|--------------|---------------------|
